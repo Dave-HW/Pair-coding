@@ -10,4 +10,6 @@ console.log("Hello from Jayden");
 
 console.log("Hello World");
 
+console.log("line 1 \nline 2");
+
 // it works!!
